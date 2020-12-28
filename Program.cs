@@ -99,6 +99,7 @@ namespace _8_queens_puzzle
 
         static void Main(string[] args)
         {
+            // 為什麼需要多傳入 0 ?? 
             Check(0);
             Console.WriteLine($"一共有{_count}種解法");
 
