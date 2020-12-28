@@ -1,0 +1,7 @@
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.exe.config
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.exe
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.pdb
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.csprojAssemblyReference.cache
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.csproj.CoreCompileInputs.cache
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.exe
+D:\[0]開發專案\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.pdb
